@@ -16,4 +16,7 @@ Follow full potential in the package.json
     "build:parcel": "parcel build ./src/index.html --public-url ./ --no-source-maps",
     "clean": "rm -rf dist/*"
 
+# Future
+1. Dockerize the project.
+
 
