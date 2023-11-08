@@ -1,5 +1,6 @@
 # coming-soon-repo
-Scaffold a coming-soon/under-development landing page using Parcel.js
+Scaffold a coming-soon/under-development landing page using  [Parcel.js](https://parceljs.org/)
+
 
 # Commands
 1.  npm i && npm update && npm run dev
